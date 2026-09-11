@@ -1,3 +1,25 @@
+commit c311b20503ff6cbfecfd57df85c3f4b97c9445bc
+Author: Connor <30701468+cnrwxlsn@users.noreply.github.com>
+Date:   Fri Sep 11 16:58:06 2026 -0700
+
+    update index.html
+    
+    updated index
+
+commit 952bb71fe3eba00b7d4a26a2e696ddd0bbaae2d5
+Author: Connor <30701468+cnrwxlsn@users.noreply.github.com>
+Date:   Fri Sep 11 16:43:33 2026 -0700
+
+    push readme and repo location
+    
+    readme and repolocation for hw1
+
+commit 290da26638296389c19f7e2841fdd7d11109ec8c
+Author: Connor <30701468+cnrwxlsn@users.noreply.github.com>
+Date:   Fri Sep 11 16:35:10 2026 -0700
+
+    Create git_log.txt
+
 commit 3c36ce9580e1b070e23785ba2a17c36ba2f81fda
 Author: MRTZ2341 <ramirezisac2341@gmail.com>
 Date:   Fri Sep 11 13:33:23 2026 -0700
